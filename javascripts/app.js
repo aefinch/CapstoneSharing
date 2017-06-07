@@ -1,0 +1,1 @@
+var app = angular.module("capstoneSharing", ["ngAnimate", "ngRoute", "ngSanitize", "ui.bootstrap"]);
