@@ -1,0 +1,15 @@
+@import "colors";
+
+body {
+	background-color: $blue;
+	color: $black;
+}
+form {
+	background-color: $green;
+	color: $white;
+	padding: 20px;
+	margin: 50px;
+}
+button {
+	color: $black;
+}
